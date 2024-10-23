@@ -1,0 +1,1 @@
+# resumo_lab_gerenciamento_implanta-o
