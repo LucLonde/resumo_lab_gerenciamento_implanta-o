@@ -1,4 +1,4 @@
-# Resumo labopratório de Gerenciamento eimplantação
+# Resumo laboratório de Gerenciamento e Implantação
 
 As ferramentas de **gerenciamento** e **implantação** no Microsoft Azure ajudam a planejar, desenvolver, implantar e monitorar recursos e aplicativos na nuvem de maneira eficiente. Aqui estão algumas das principais ferramentas que fazem parte desse ecossistema:
 
